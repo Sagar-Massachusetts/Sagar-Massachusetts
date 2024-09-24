@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sagar-lining in Massachusetts
+- 👋 Hi, I’m @Sagar-living in Massachusetts, USA
 - 👀 I’m interested in Autonomous systems, Mechatronics, Aerodynamics, Fluid Mechanics, AI, Wearable sensors, Robotics and this types
 - 🌱 I’m currently working with JaiaRobotics for velocity sensor development of their underwater vehicle
 - 💞️ I’m looking to collaborate on this.
