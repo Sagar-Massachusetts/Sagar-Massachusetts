@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sagar-living in Massachusetts, USA
-- 👀 I’m interested in Autonomous systems, Mechatronics, Aerodynamics, Fluid Mechanics, AI, Wearable sensors, Robotics and this types
-- 🌱 I’m currently working with JaiaRobotics for velocity sensor development of their underwater vehicle
+- 👋 Hi, I’m @Sagar-living in Pennsylvania, USA
+- 👀 I’m interested in Autonomous systems, Biomechanics, Mechatronics, ML, AI, Wearable sensors, Robotics and this types
+- 🌱 I’m currently working with algorithms for the development of robotic ankle exoskeleton system
 - 💞️ I’m looking to collaborate on this.
 - 📫 How to reach me... email
 - 😄 Pronouns: He/His/Him
